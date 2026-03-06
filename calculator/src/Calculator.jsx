@@ -100,7 +100,7 @@ export default function Calculator() {
       display: "grid",
       alignItems: "center",
       justifyContent: "center",
-      background: "radial-gradient(ellipse at 30% 20%, #1a0a2e 0%, #0d0d1a 60%, #000 100%)",
+      background: "#fff",
       fontFamily: "'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif",
     }}>
       <style>{`
